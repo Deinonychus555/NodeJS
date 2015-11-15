@@ -1,0 +1,4 @@
+- Si los módulos se encuentran en la carpeta 'node_module'se pueden requerircon solo indicar el nombre (require('modulo')), sino
+habrá que indicar la ruta y la extensión (require('modulo.js'))
+
+- Si en node pulsas el tabulador se muestran los tipos y funciones globales-
